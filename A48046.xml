@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from an officer belonging to the ordnance on board the fleet lying in the bay before the Isle of Man giving an account of the Duke of Schomberg's arrival and landing of the forces under his command at Carrick Fergus in Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48046</idno>
+            <idno type="STC">Wing L1448</idno>
+            <idno type="STC">ESTC R30962</idno>
+            <idno type="EEBO-CITATION">11748200</idno>
+            <idno type="OCLC">ocm 11748200</idno>
+            <idno type="VID">48555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48555)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from an officer belonging to the ordnance on board the fleet lying in the bay before the Isle of Man giving an account of the Duke of Schomberg's arrival and landing of the forces under his command at Carrick Fergus in Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet ([2]) p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"From the Isle of Man, August 15th."</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48555:1" rendition="simple:additions"/>
+            <head>A LETTER FROM AN OFFICER Belonging to the ORDNANCE On BOARD the FLEET Lying in the BAY before the ISLE of <hi>MAN,</hi> Giving an ACCOUNT of the Duke of <hi>Schom<g ref="char:EOLhyphen"/>berg</hi>'s Arrival and Landing of the FORCES under his Command at <hi>Carrick Fergus</hi> IN IRELAND.</head>
+            <p>
+               <hi>From the ISLE of</hi> MAN Auguſt 15th.</p>
+            <p>YEſterday ſeven Night, we arrived at the Camp that was formed near <hi>Highlake</hi> in Order to be Tranſported for <hi>Ireland,</hi> and laſt <hi>Saturday</hi> we ſhipt our Stores and Pro<g ref="char:EOLhyphen"/>viſions that we brought with us, as alſo two hundred and fifty draught Horſes, belonging to our Train of Artillery; after which we went on Board our ſelves. On <hi>Monday</hi> mor<g ref="char:EOLhyphen"/>ning very early the Duke of <hi>Schomberg</hi> our General, with Lieu<g ref="char:EOLhyphen"/>tenant General <hi>Solmes,</hi> ſet Sail, having embarqued two days before, the Wind being fair at Eaſt, with four Frigats, and
+<pb facs="tcp:48555:2"/>about ſeventy or eighty Sail of other Ships, on board which there were about twelve hundred Land Souldiers for the Iriſh Expedition; having given Orders that the Veſſels on which the Artillery, Proviſions and Victuals were ſhipp'd, ſhould make what haſte they could after them under the Convoy of three Frigates, that were left to accompany us, and joyn him in this Bay; about eight of the Clock that morning, which was ſome hours after the General had been under ſail, we ſet ſail, and the Wind continuing fair, we came on <hi>Tueſday</hi> mor<g ref="char:EOLhyphen"/>ning to an Anchor in this place, being about forty and four ſail in all; it was no ſmall ſurpriſe to us, that after we had ſafely, and with what haſte we could come to the place of Rende<g ref="char:EOLhyphen"/>vouz to find no tidings of our General, nor meet with any Orders from him, there being no body left to direct us what we ſhould do, or what Courſe we ſhould ſteer; however we were reſolved to ſtay until we heard from his Grace, which we had the good luck to do this Morning by the <hi>Antelope</hi> Frigat, who ſail'd out of <hi>Highlake</hi> with the General, and brought us Orders from his Excellency to ſail with all poſſible ſpeed from hence, and to come and joyn him in the <hi>Lough</hi> of <hi>Car<g ref="char:EOLhyphen"/>rick Fergus,</hi> where the Captain ſaid he had left him, landing the Forces in the Country on <hi>Antrim-ſide.</hi>
+            </p>
+            <p>The Captain tells us, that the General having fair wind did not think it needful to put in and come to Anchor in this Place being reſolv'd to make the beſt of it, and proceed on his way, and farther tells us that the Town of <hi>Carrick Fergus</hi> was not all burnt down, but only ſome Fort, or Caſtle that was on a Rock that was blown up. Thus Major General <hi>Macarty</hi> was certainly wounded and taken Priſoner by the <hi>Inneskilling</hi> Men who had given a very great defeat to the Iriſh Army, as they were endeavouring to retire from the North, after the Relief of <hi>London Derry,</hi> and that it was credibly reported in thoſe Parts, that there was hardly a Body of five hundred Iriſh together in all the North Counties of that Kingdom.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>LICENSED </p>
+            <closer>
+               <date>
+                  <hi>Auguſt</hi> th 19.</date>
+               <signed>J. Fraſer.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Ric. Chiſwell.</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul's Church Yard.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
